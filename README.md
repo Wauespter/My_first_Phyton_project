@@ -1,7 +1,8 @@
 # My_first_Phyton_project_with_GeminiAI
 
 
-This project was developed during the AI Immersion week promoted by Alura and Google, presenting Gemini, Google's AI. This is a solution to help the Municipality's taxpayers understand how tax laws and other Decrees are applied in the Municipality.
+Considering that Brazilian culture does not consist of studying the legislation that they must comply with, looking for a way to summarize and compile all articles of the Municipal Tax Law that deal with matters relating to IPTU and real estate registration, to facilitate citizens' understanding of o main rights and obligations, since we always receive many questions through our service channels, and we often leave taxpayers more confused than at the beginning.
+This project was developed during the AI Immersion week promoted by Alura and Google, featuring Gemini, Google's AI. Bringing a solution to help the Municipality's taxpayers understand how tax laws and other Decrees are applied in the Municipality and what their role will be in the development of their city.
 
 ## Index
 
